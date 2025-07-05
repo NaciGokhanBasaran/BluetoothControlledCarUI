@@ -4,12 +4,12 @@ In this project, my friend Utku Decdeli and I developed an Arduino-powered car c
 
 ## 🖥️ User Interface
 
-![UI Screenshot](images/ui.png)  
+![UI Screenshot](ui.png)  
 *A screenshot of the Python Tkinter-based control panel*
 
 ## 🚗 The Arduino Robot Car
 
-![Robot Image](images/robot.png)  
+![Robot Image]car.png)  
 *Our custom-built Arduino car in action*
 
 ## 🔧 Technologies Used
