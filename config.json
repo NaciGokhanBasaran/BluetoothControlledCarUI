@@ -1,0 +1,11 @@
+{
+    "BLUETOOTH_CONFIG": {
+        "default_com_port": "COM19"
+    },
+    "CAMERA_CONFIG": {
+        "stream_url": "http://192.168.20.163/capture"
+    },
+    "Data": {
+        "file_path": "sensor_data.xlsx"
+    }
+}
