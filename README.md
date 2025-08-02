@@ -1,6 +1,7 @@
 # Arduino Car with Python Tkinter UI
 
-In this project, my friend Utku Decdeli(@utkudec) and I developed an Arduino-powered car controlled through a custom-built Python Tkinter GUI. The interface allows real-time control and communication with the robot via serial connection.
+In this project, my friend Utku Decdeli ([@utkudec](https://github.com/utkudec))
+ and I developed an Arduino-powered car controlled through a custom-built Python Tkinter GUI. The interface allows real-time control and communication with the robot via serial connection.
 
 ## 🖥️ User Interface
 
